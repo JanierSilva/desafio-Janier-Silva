@@ -72,5 +72,4 @@ class CaixaDaLanchonete {
         return `R$ ${total.toFixed(2).replace('.', ',')}`;
     }
 }
-
 export { CaixaDaLanchonete };
